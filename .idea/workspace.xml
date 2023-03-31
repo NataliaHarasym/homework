@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c38ea76-9325-4c18-8688-cf96975a7b77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/checkEmail/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NkGHI4mfbSMoa62d5cZCTtYSV4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="email" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AppTest.testEmailFalse">
+    <configuration name="AppTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ti006main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="email" />
+      <option name="MAIN_CLASS_NAME" value="email.AppTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testEmailFalse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ti006main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="email" />
+      <option name="MAIN_CLASS_NAME" value="email.AppTest" />
+      <option name="METHOD_NAME" value="testEmailFalse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testEmailTrue" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ti006main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="email" />
+      <option name="MAIN_CLASS_NAME" value="email.AppTest" />
+      <option name="METHOD_NAME" value="testEmailTrue" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testUsing" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ti006main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="email" />
+      <option name="MAIN_CLASS_NAME" value="email.AppTest" />
+      <option name="METHOD_NAME" value="testUsing" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testUsingSimpleRegex" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ti006main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="email" />
+      <option name="MAIN_CLASS_NAME" value="email.AppTest" />
+      <option name="METHOD_NAME" value="testUsingSimpleRegex" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AppTest.testEmailFalse" />
+        <item itemvalue="TestNG.AppTest.testEmailTrue" />
+        <item itemvalue="TestNG.AppTest" />
+        <item itemvalue="TestNG.AppTest.testUsing" />
+        <item itemvalue="TestNG.AppTest.testUsingSimpleRegex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c38ea76-9325-4c18-8688-cf96975a7b77" name="Changes" comment="" />
+      <created>1680200590901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680200590901</updated>
+    </task>
+    <servers />
+  </component>
+</project>
